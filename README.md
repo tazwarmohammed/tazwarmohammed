@@ -1,7 +1,7 @@
-# Tazwar Mohammed Shoumik | **Full-Stack Software Engineer**
+# **A Full-Stack Software Engineer** | Eager to add value
 
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 **Frontend:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
