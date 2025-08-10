@@ -1,7 +1,7 @@
-# **A Full-Stack Software Engineer** | Eager to add value
+# **Full-Stack Software Engineer 💻** | Eager to add value 🎯
 
 
-### 🔧 Technologies & Tools
+## ⚙️🔧🛠️ Technologies that I work with currently:
 
 **Frontend:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
